@@ -102,6 +102,8 @@
   <string name="firewall_fragment_sys_listempty">Пусто</string>
   <string name="firewall_fragment_tab_title_nonsys">Сторонние</string>
   <string name="firewall_fragment_tab_title_sys">Системные</string>
+  <string name="firewall_network_restrict_notify_message">Изменить настройки.</string>
+  <string name="firewall_network_restrict_notify_title">"%1$s не удается подключить к %2$s."</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Международный роуминг</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
@@ -288,6 +290,7 @@
   <string name="roaming_not_start_title">Международный роуминг</string>
   <string name="roaming_start_body">Разрешить приложениям из списка исключений подключаться к интернету в международном роуминге</string>
   <string name="roaming_start_title">Международный роуминг</string>
+  <string name="root">Рут доступ</string>
   <string name="sc_allow_network_dialog_message">Для полноценной работы функции сжатия трафика необходимо разрешить приложению доступ в интернет</string>
   <string name="sc_allow_network_dialog_tiltle">"Не могу использовать экономию трафика"</string>
   <string name="see_detail">Подробнее</string>
@@ -357,6 +360,7 @@
   <string name="traffic_correction_start_correction">Подключение к сервису оператора…</string>
   <string name="traffic_correction_start_correction_failed">Ошибка запроса. Проверьте настройки оператора.</string>
   <string name="traffic_correction_success">Трафик обновлен</string>
+  <string name="traffic_correction_success_notify_message">Просмотр деталей.</string>
   <string name="traffic_limit_error_alert_body">"Ваш оператор показывает, что вы имеете %1$s на этот месяц. Это больше %2$s введенного вручную."</string>
   <string name="traffic_limit_error_alert_iknow">OK</string>
   <string name="traffic_limit_error_alert_reset">Сброс</string>

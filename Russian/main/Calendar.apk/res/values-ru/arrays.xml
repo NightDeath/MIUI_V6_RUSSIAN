@@ -1,6 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
+         <string-array name="repeat_choose_day">
+        <item>1ое</item>
+        <item>2е</item>
+        <item>3е</item>
+        <item>4е</item>
+        <item>5е</item>
+        <item>6е</item>
+        <item>7е</item>
+        <item>8е</item>
+        <item>9е</item>
+        <item>10е</item>
+        <item>11е</item>
+        <item>12е</item>
+        <item>13е</item>
+        <item>14е</item>
+        <item>15е</item>
+        <item>16е</item>
+        <item>17е</item>
+        <item>18е</item>
+        <item>19е</item>
+        <item>20е</item>
+        <item>21е</item>
+        <item>22е</item>
+        <item>23е</item>
+        <item>24е</item>
+        <item>25е</item>
+        <item>26е</item>
+        <item>27е</item>
+        <item>28е</item>
+        <item>29е</item>
+        <item>30е</item>
+        <item>31е</item>
+     </string-array>
+     <string-array name="repeat_choose_end">
+        <item>Никога</item>
+        <item>Время</item>
+        <item>Количество</item>
+     </string-array>
+     <string-array name="repeat_choose_month">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+     </string-array>
+         <string-array name="repeat_choose_week_right">
+        <item>Пон - Пят</item>
+        <item>Выходные</item>
+        <item>Всю неделю</item>
+     </string-array>
+     <string-array name="repeat_choose_weekday">
+        <item>Пон</item>
+        <item>Втр</item>
+        <item>Срд</item>
+        <item>Чтв</item>
+        <item>Птн</item>
+        <item>Суб</item>
+        <item>Вск</item>
+     </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Не напоминать</item>
+        <item>0 минут</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>1 дней</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+     </string-array>
      <string-array name="availability">
         <item>Занят</item>
         <item>Доступен</item>

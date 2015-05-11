@@ -46,6 +46,7 @@
     <string name="activate_popup_title_new_sim_card">Активация новой SIM-карты</string>
     <string name="activate_popup_title_register_account">Регистрация аккаунта</string>
     <string name="activate_popup_title_upload_diagnosis_info">"Не удается активировать SIM карту"</string>
+    <string name="activate_sms_postfix">[Это SMS используется для активации вашего Mi устройства.]</string>
     <string name="activate_status_desc_acquire_phone_number">Получение номера телефона с сервера</string>
     <string name="activate_status_desc_acquire_phone_number_server_error">Произошла ошибка сервера при получении номера</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info">Не удается получить номер телефона</string>

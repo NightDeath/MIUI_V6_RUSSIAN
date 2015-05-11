@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="add_blacklist_dialog_title">В черный список</string>
+    <string name="blacklist">Черный список</string>
+    <string name="followed_yellowpage">Подтверженные аккаунты</string>
+    <string name="preference_contacts_recovery_introduction">Резервная копия контактов</string>
+    <string name="remove_blacklist_dialog_title">Удалить из черного списка?</string>
+    <string name="resource_select_ringtone_confirm_picker">Выбрать эту мелодию?</string>
     <string name="accessibility_calllog_detail">Журнал</string>
     <string name="account_container_title">Из аккаунта</string>
     <string name="account_default">По умолчанию</string>

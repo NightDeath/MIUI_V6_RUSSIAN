@@ -21,6 +21,7 @@
      <string name="action_menu_text_bandwidth_on">Пропускная способность/Вкл</string>
      <string name="action_menu_text_bookmark">Добавить закладку</string>
      <string name="action_menu_text_exit">Выход</string>
+     <string name="action_menu_text_fullscreen">Полный экран</string>
      <string name="action_menu_text_history">Закладки/История</string>
      <string name="action_menu_text_nightmode">Ночной режим</string>
      <string name="action_menu_text_nightmode_off">Ночной режим</string>
@@ -354,6 +355,7 @@
      <string name="miui_quicksearch_enable_pref_title">Быстрый поиск</string>
      <string name="miui_search_notification_message">Нажмите, чтобы открыть.</string>
      <string name="miui_search_notification_title">Поиск в браузере</string>
+     <string name="miuichromium_error_page_diagnostic">Диагностика сети</string>
      <string name="miuichromium_error_page_mobile">Мобильная сеть</string>
      <string name="miuichromium_error_page_reason_network">Показать URL</string>
      <string name="miuichromium_error_page_reason_server">Невозможно загрузить страницу</string>
@@ -781,5 +783,4 @@
      <string name="webview_find_on_page">Найти на странице</string>
      <string name="webviewchromium_private_browsing_warning">"Функция не поддерживается на этой версии Android."</string>
      <string name="week_picker_dialog_title">Выбрать неделю</string>
-     <string name="action_menu_text_fullscreen">Полный экран</string>
 </resources>

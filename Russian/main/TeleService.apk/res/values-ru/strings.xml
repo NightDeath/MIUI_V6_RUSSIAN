@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="flash_when_ring_summary">Флеш индикатор уведомлений для входящих звонков</string>
+    <string name="flash_when_ring_title">Вспышка при звонке</string>
+    <string name="voip_setting">Настройки VOIP</string>
+    <string name="vt_peer_video_quality_sharp">Четкий</string>
     <string name="accessibility_call_muted">Вызов приглушен.</string>
     <string name="accessibility_speakerphone_enabled">Громкоговоритель включен.</string>
     <string name="activity_not_found">Приложение не установлено.</string>

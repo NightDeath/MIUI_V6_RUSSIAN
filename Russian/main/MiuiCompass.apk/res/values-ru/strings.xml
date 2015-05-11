@@ -7,7 +7,10 @@
     <string name="calibrate_failed">Ошибка калибровки высоты</string>
     <string name="calibrate_failed_no_location">Ошибка калибровки. Невозможно получить данные.</string>
     <string name="calibrate_failed_timeout">Ошибка калибровки. Сервер не отвечает.</string>
+    <string name="calibrate_rotate_again">Попробуйте снова</string>
     <string name="calibrate_success">Калибровка завершена</string>
+    <string name="calibrate_tip">Поварачивайте устройство, что бы обвести шариком вокруг круга</string>
+    <string name="calibrate_title">Калибровка компаса</string>
     <string name="cannot_get_location">Невозможно получить данные о вашем местоположении</string>
     <string name="dialog_calibrat_altitude">Калибровка через интернет…</string>
     <string name="dialog_title_no_network">Сеть не найдена. Подключитесь через Wi-Fi или включите мобильный интернет.</string>

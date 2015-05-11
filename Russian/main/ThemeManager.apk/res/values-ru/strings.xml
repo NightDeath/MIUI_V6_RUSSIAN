@@ -66,6 +66,7 @@
     <string name="gift_purchased_list_empty_with_received_list_empty">Нет подарков.</string>
     <string name="gift_received_endnote">От: %1$s (получено: %2$s)</string>
     <string name="gift_received_list_empty">"Вы не получали подарки"</string>
+    <string name="gift_received_notification_title">%s дал вам тему.</string>
     <string name="gift_share">Отправить</string>
     <string name="gift_transfer">Обмен</string>
     <string name="gift_unbind_fail_dlg_title">"Не удается создать код"</string>
@@ -231,6 +232,7 @@
     <string name="resource_see_more">Подробнее</string>
     <string name="resource_select">Применить</string>
     <string name="resource_select_ringtone_confirm">Выбрать эту мелодию?</string>
+    <string name="resource_select_ringtone_confirm_picker">Выбрать эту мелодию?</string>
     <string name="resource_selected">Новые</string>
     <string name="resource_send">Отправить</string>
     <string name="resource_server_alert_dialog_title">Удалено</string>
@@ -239,6 +241,7 @@
     <string name="resource_share_text">Я отправил вам тему \"%1$s\". Скачать можно по ссылке: %2$s</string>
     <string name="resource_share_title">Отправить</string>
     <string name="resource_system_title">Системные</string>
+    <string name="resource_tab_to_view">Просмотр.</string>
     <string name="resource_tip_select_none">Не выбрано</string>
     <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
     <string name="resource_title">Информация</string>
@@ -341,6 +344,4 @@
     <string name="wallpaper_set_as_destop">Применить на рабочий стол</string>
     <string name="wallpaper_set_as_lockscreen">Применить на экран блокировки</string>
     <string name="wallpaper_settings">Настройки обоев</string>
-    <string name="gift_received_notification_title">%s дал вам тему.</string>
-    <string name="resource_tab_to_view">Просмотр.</string>
 </resources>

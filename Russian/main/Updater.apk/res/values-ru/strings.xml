@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="welcom_message">"Все готово"</string>
+    <string name="welcom_title">Добро пожаловать в MIUI 6</string>
     <string name="about_device">Сведения о системе</string>
     <string name="active_xiaomi_account">Активировать</string>
     <string name="active_xiaomi_account_msg">Пожалуйста, перейдите на форум MIUI для активации аккаунта Xiaomi:\n</string>

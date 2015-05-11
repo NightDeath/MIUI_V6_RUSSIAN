@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="notification_rec_title">Просмотр записи</string>
     <string name="alert_frequency_duplicate">Эта частота уже используется</string>
     <string name="alert_invalid_frequency">Неверная частота</string>
     <string name="alert_message_delete_station">Удалить станцию?</string>

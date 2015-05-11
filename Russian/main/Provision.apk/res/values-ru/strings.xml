@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="sim_card_detecting_title">Проверка SIM</string>
+    <string name="skip_underline"><u>Пропустить шаг</u></string>
     <string name="agree">ОК</string>
     <string name="congratulation_label">Наслаждайтесь пользованием :)</string>
     <string name="congratulation_next">Готово</string>

@@ -255,6 +255,7 @@
      <string name="send_to">Отправить</string>
      <string name="send_to_title">Отправить (%1$s)</string>
      <string name="server_error">Ошибка сервера. Попробуйте позже</string>
+     <string name="service_stop">Обслуживание прекращено</string>
      <string name="set_album_successful">Обложка альбома установлена</string>
      <string name="set_as_ring">Установить на звонок</string>
      <string name="set_id3_failed">Не удалось изменить информацию о треке</string>
@@ -299,6 +300,12 @@
      <string name="ultra_high_quality">Наивысшее качество</string>
      <string name="unknown_album_name">Неизвестный альбом</string>
      <string name="unknown_artist_name">Неизвестный исполнитель</string>
+     <string name="upgrade_force">"Мы остановили данный потоковый сервис из-за проблем с авторским правом. Обновитесь до последней версии приложения Музыка для прослушивания качественной музыки."</string>
+     <string name="upgrade_immediate">Обновить сейчас</string>
+     <string name="upgrade_nobeta">"Мы остановили данный потоковый сервис из-за проблем с авторским правом. Простите за неудобство :("</string>
+     <string name="upgrade_remind">Доступно обновление</string>
+     <string name="upgrade_suggest">"Мы остановили данный потоковый сервис из-за проблем с авторским правом. Обновитесь до последней версии приложения Музыка для прослушивания качественной музыки."</string>
+     <string name="upgrade_waringing">"Вы сможете слушать музыку в автономном режиме."</string>
      <string name="valid_period">"Срок действия: "</string>
      <string name="vip_recommend_title">Сервис музыки Baidu</string>
 </resources>

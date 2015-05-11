@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="dlg_appstore_notice">Загрузить приложение из официального &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u></string>
+    <string name="lift_ban_once">Один раз</string>
     <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
     <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
     <string name="allow_source_dlg_text">%1$s хочет установить другие приложения.\n\nРазрешить и запомнить выбор?</string>

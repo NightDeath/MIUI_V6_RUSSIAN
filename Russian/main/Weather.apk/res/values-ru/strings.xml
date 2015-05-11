@@ -14,6 +14,7 @@
     <string name="activity_find_city_dialog_message">Служба местоположения</string>
     <string name="activity_find_city_dialog_set">Настройки</string>
     <string name="activity_find_city_dialog_title">Местоположение</string>
+    <string name="activity_main_refresh_fail">"Невозможно подключиться к сети"</string>
     <string name="activity_main_refresh_time">Последнее обновление %1$s</string>
     <string name="activity_main_refresh_timeout">Время ожидания истекло</string>
     <string name="activity_main_update_time">Обновлено %1$s</string>
@@ -39,6 +40,13 @@
     <string name="menu_location">Города</string>
     <string name="menu_more">Информация</string>
     <string name="network_unavailable">Ошибка подключения. Сеть недоступна.</string>
+    <string name="share_btn_cancel">Отмена</string>
+    <string name="share_btn_confirm">Поделиться</string>
+    <string name="share_button">Поделиться</string>
+    <string name="share_menu_title">Поделиться</string>
+    <string name="share_subject">Поделиться</string>
+    <string name="share_title">Поделитесь погодой</string>
+    <string name="share_weather_save_pic_fail">"Невозможно сделать скриншот"</string>
     <string name="view_aqi_pubtime">Обновлено в %1$s</string>
     <string name="view_aqi_source">Китайский национальный центр исследования окружающей среды</string>
     <string name="view_aqi_title">Качество воздуха</string>

@@ -13,6 +13,10 @@
     <string name="ble_device_profile_header_title">Профили</string>
     <string name="ble_device_profile_title">Устройство BLE подключено</string>
     <string name="ble_device_unbind">Очистить настройки</string>
+    <string name="bluetooth_connected">Подключено</string>
+    <string name="bluetooth_connecting">Подключение…</string>
+    <string name="bluetooth_disconnected">Отключено</string>
+    <string name="bluetooth_disconnecting">Отключение…</string>
     <string name="bluetooth_in_airplane_mode">В режиме полета</string>
     <string name="bluetooth_preference_connected_devices">Подключенные устроства</string>
     <string name="bluetooth_preference_found_devices">Доступные устройства</string>
