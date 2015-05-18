@@ -25,6 +25,7 @@
     <string name="input_puk_code">Введите PUK-код</string>
     <string name="invalid_confirm_pin_hint">"PIN неверен"</string>
     <string name="keyguard_torch_cover_text">Чтобы фонарик не выключился, нажмите клавишу питания.</string>
+    <string name="lock_screen_date">"d MMMM yyyy\nEEEE"</string>
     <string name="lockscreen_access_pattern_cell_added">Оператор добавлен</string>
     <string name="lockscreen_access_pattern_cleared">Ключ очищен</string>
     <string name="lockscreen_access_pattern_detected">Конец ключа</string>
