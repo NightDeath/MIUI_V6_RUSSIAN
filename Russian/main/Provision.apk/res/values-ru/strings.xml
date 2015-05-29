@@ -30,8 +30,8 @@
     <string name="other_settings_user_experience_summary1">"Политика безопасности"</string>
     <string name="page_layout_label">Изменяйте размер текста и разметку домашнего экрана, панэли уведомлений и другое.</string>
     <string name="page_layout_title">Системный макет</string>
-    <string name="pref_title_data_slot">Предпочтительная SIM карта данных</string>
-    <string name="pref_title_voice_slot">Предпочтительная SIM карта голоса</string>
+    <string name="pref_title_data_slot">SIM карта для данных</string>
+    <string name="pref_title_voice_slot">SIM карта для вызова</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="provision_finish">OK</string>
     <string name="provision_finish_restart">Перезагрузка</string>
