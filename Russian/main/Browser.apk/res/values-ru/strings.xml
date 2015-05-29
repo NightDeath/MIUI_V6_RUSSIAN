@@ -673,6 +673,10 @@
      <string name="sub_sync_item_browser_title_history_summary">Синхронизировать историю браузера</string>
      <string name="sub_sync_item_browser_title_novel">Книги</string>
      <string name="sub_sync_item_browser_title_novel_summary">Синхронизировать книги браузера</string>
+     <string name="sub_sync_item_browser_title_useful">Синхронизация начальной страницы</string>
+     <string name="sub_sync_item_browser_title_useful_summary">"Синхронизация сайтов, добавленных на начальную страницу"</string>
+     <string name="sub_sync_item_browser_title_video">Синхронизация истории видео</string>
+     <string name="sub_sync_item_browser_title_video_summary">"Синхронизировать список видео, которые вы недавно смотрели на всех ваших устройствах"</string>
      <string name="sub_sync_item_browser_title_webapp">Веб-приложения</string>
      <string name="sub_sync_item_browser_title_webapp_summary">Синхронизировать данные веб-приложений</string>
      <string name="suggest_access_appstore">Mi App Store</string>

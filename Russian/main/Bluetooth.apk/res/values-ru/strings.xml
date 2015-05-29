@@ -10,8 +10,10 @@
     <string name="auth_notif_ticker">Запрос на аутентификацию Obex</string>
     <string name="auth_notif_title">Ключ сеанса</string>
     <string name="ble_device_address">Устройства BLE MAC</string>
+    <string name="ble_device_profile">Профиль Bluetooth</string>
     <string name="ble_device_profile_header_title">Профили</string>
     <string name="ble_device_profile_title">Устройство BLE подключено</string>
+    <string name="ble_device_rename">Переименовать</string>
     <string name="ble_device_unbind">Очистить настройки</string>
     <string name="bluetooth_connected">Подключено</string>
     <string name="bluetooth_connecting">Подключение…</string>
@@ -75,6 +77,7 @@
     <string name="incoming_file_confirm_title">Передача файлов</string>
     <string name="incoming_file_toast_msg">Входящий файл с другого устройства. Подтвердите, что хотите загрузить его.</string>
     <string name="insert_record">Вставить запись</string>
+    <string name="install_package">Установите %1$s для большего функционала</string>
     <string name="localPhoneName">Мое название</string>
     <string name="mi_band_vibrate_alarm">Вибрировать при будильнике</string>
     <string name="mi_band_vibrate_incall">Вибрировать при вызове</string>
@@ -87,6 +90,10 @@
     <string name="mi_key_alert_dialog_title">Уведомление MiKey</string>
     <string name="mi_key_find_mikey">Найти Mi-Key</string>
     <string name="mi_key_find_phone">Найти телефон</string>
+    <string name="mi_key_open_camera">Открыть камеру</string>
+    <string name="mi_key_summary_find_phone">Зажмите Mi-Key для звонка</string>
+    <string name="mi_key_summary_open_camera">Дважды нажмите Mi-Key для открытия камеры</string>
+    <string name="mi_key_summary_take_photo">Нажмите Mi-Key что бы сделать фото</string>
     <string name="mi_key_take_photo">Сделать фото</string>
     <string name="miui_transfer_history_title">История</string>
     <string name="miui_transfer_inbound_title">Входящие</string>
@@ -120,7 +127,9 @@
     <string name="permlab_bluetoothWhitelist">Белый список доступа устройства Bluetooth</string>
     <string name="permlab_handoverStatus">Получать BT передачи вещания</string>
     <string name="progress_scanning">Поиск…</string>    
+    <string name="reset_function_msg">Возобновление функционала невозможно в %1$s</string>
     <string name="sim_selected_dialog_title">Выбрать SIM</string>
+    <string name="some_app_taking">(%1$s уже использует эту функцию…)</string>
     <string name="start_server">Запустить TCP-сервер</string>
     <string name="status_canceled">Передача отменена.</string>
     <string name="status_connection_error">Не удалось установить соединение</string>

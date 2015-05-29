@@ -638,4 +638,16 @@
         <item>Запрашивать разрешение</item>
         <item>Разрешать</item>
     </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Перезагрузить устройство и применить настройки?</item>
+        <item>Перезагрузить устройство и применить настройки?</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Убрать системную анимацию</item>
+        <item>Отображать системную анимацию</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>"Для увеличения производительности устройства отключите системную анимацию"</item>
+        <item>"Отображение системной анимации может уменьшить производительность устройства"</item>
+     </string-array>
 </resources>

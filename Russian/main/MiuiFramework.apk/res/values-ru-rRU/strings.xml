@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="alwaysUsePrompt">Запомнить</string>
+    <string name="android_ringtone_default_with_actual">Рингтон по умолчанию (%1$s)</string>
+    <string name="android_ringtone_silent">Нет</string>
+    <string name="android_ringtone_unknown">Неизвестный рингтон</string>
     <string name="app_no_notification">Уведомления отключены</string>
     <string name="app_notificaiton_on_notificationBar">Панель уведомлений</string>
     <string name="app_notificaiton_on_statusBar_and_notificationBar">Панель уведомлений и экран блокировки</string>

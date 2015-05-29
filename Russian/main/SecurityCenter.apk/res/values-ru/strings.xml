@@ -46,6 +46,7 @@
   <string name="apk_status_installed_old">Старая версия</string>
   <string name="apk_status_uninstalled">Не установлено</string>
   <string name="app_name_securitycenter">Безопасность</string>
+  <string name="app_not_installed_toast">"Приложение не установлено на ваше устройство."</string>
   <string name="apps_sort_type_item_size">Размер</string>
   <string name="apps_sort_type_item_time">Использование</string>
   <string name="apps_sort_type_title">Сортировка</string>

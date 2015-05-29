@@ -164,12 +164,14 @@
     <string name="new_alarm">Новое напоминание</string>
     <string name="new_clock">Добавить время</string>
     <string name="new_clock_tip">Новый будильник</string>
+    <string name="new_contact">Новый контакт</string>
     <string name="new_feature_desc">Новые возможности</string>
     <string name="new_feature_title">Новинки</string>
     <string name="new_message">Написать сообщение</string>
     <string name="new_remind_tip">Новое напоминание</string>
     <string name="next_date">%1$s нед.</string>
     <string name="no_engine">Модуль распознавания речи не установлен</string>
+    <string name="no_sim">Вставьте SIM карту</string>
     <string name="not_launch_while_calling">Ассистент недоступен во время вызова</string>
     <string name="not_remind">Не напоминать снова</string>
     <string name="not_understand">Ошибка распознания, повторите попытку</string>

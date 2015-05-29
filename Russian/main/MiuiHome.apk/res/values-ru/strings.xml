@@ -58,6 +58,7 @@
     <string name="disable_auto_start_format">%s</string>
     <string name="disable_auto_start_message">Отключить автозапуск приложения?</string>
     <string name="disable_wallpaper_scroll">Отключить прокрутку обоев</string>
+    <string name="download_action">Загрузка</string>
     <string name="edit_folder_title">Переименовать папку</string>
     <string name="editing_add_widget_tips">Виджеты</string>
     <string name="editing_mode_enter_tip_text">Используйте \"щипок\" для редактирования рабочего стола</string>
@@ -133,6 +134,7 @@
     <string name="is_setting_wallpaper_toast">Установка обоев…</string>
     <string name="is_system_wallpaper_message">Невозможно удалить системные обои</string>
     <string name="loading_desktop">Загрузка рабочего стола…</string>
+    <string name="loading_wallpaper">Подождите…</string>
     <string name="local_wallpaper">Локальные</string>
     <string name="lock_screen_failed_message">Не удалось применить</string>
     <string name="lock_screen_success_message">Установлено на экран блокировки</string>

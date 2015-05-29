@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="add_miservice_dialog_content">"%s требует от вас добавить MIUI service framework в список исключений. Вы можете получать уведомления из встроенных приложений MIUI и других приложений сторонних разработчиков."</string>
+  <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="add_to_whitelist_button">Белый список</string>
   <string name="add_white_list">Добавить</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Обновлено более месяца назад</string>
@@ -26,6 +27,7 @@
   <string name="btn_start_diagnostic">Начать</string>
   <string name="btn_stop_diagnostic">Стоп</string>
   <string name="cancel_button">Отмена</string>
+  <string name="captive_portal_exception_title">Подключение к публичной сети</string>
   <string name="chat_number">10 часов</string>
   <string name="chat_uint">" часов"</string>
   <string name="check_network_state">Проверка сетевого статуса</string>
@@ -38,6 +40,7 @@
   <string name="daily_limit_network_available_body">Нажмите для просмотра трафика.</string>
   <string name="daily_limit_over_message">"Превышен дневной предел трафика"</string>
   <string name="daily_pkg_traffic">Ввод предела трафика</string>
+  <string name="data_network_blocked_notification_title">Нет соединения</string>
   <string name="data_usage_correction_timeout_body">Нажмите для обновления вручную</string>
   <string name="data_usage_correction_timeout_title">Превышено время синхронизации трафика</string>
   <string name="data_usage_disabled_dialog">Трафик достиг предела. \n\nЗа дальнейшее использование мобильного интернета может взыматься дополнительная плата согласно вашему тарифному плану.</string>
@@ -88,6 +91,7 @@
   <string name="detail_app_button">Информация</string>
   <string name="dialog_app_roaming_message">"Когда вы находитесь в международном роуминге, доступ к интернету будут иметь приложения только из списка исключений. Приложение \"%1$s\" не добавлено в список исключений. Открыть список исключений?"</string>
   <string name="dialog_app_roaming_title">"Международный роуминг не включен для %1$s"</string>
+  <string name="dialog_roaming_apps_sorted_title">Сортировать по</string>
   <string name="dialog_roaming_message">Добавить это приложение в список исключений? Приложения из списка исключений будут иметь возможность подключаться к интернету в международном роуминге.</string>
   <string name="dialog_roaming_title">Международный роуминг</string>
   <string name="disable_air_mode">Выключить режим полета</string>
@@ -119,15 +123,20 @@
   <string name="free_traffic_settings">Настройки бесплатного трафика</string>
   <string name="gateway_exception_summary">Проверьте ваш роутер и попробуйте снова.</string>
   <string name="gateway_exception_title">Тест роутера</string>
+  <string name="hints_input_roaming_daily_limit">Введите ограничение на использование данных</string>
+  <string name="hints_install_apps_new">Не использовалось</string>
+  <string name="hints_install_apps_today">Использовалось сегодня</string>
   <string name="input_aviable_traffic">Предел трафика</string>
   <string name="input_traffic_pkg">Дополнительный пакет трафика</string>
   <string name="input_used_hint">Введите трафик</string>
   <string name="input_used_max_hint">Предел трафика (не более %s)</string>
   <string name="international_roaming_setting">Международный роуминг</string>
   <string name="international_roaming_whitelist_count">%d приложений могут подключаться к интернету в международном роуминге"</string>
+  <string name="ip_address_exception_summary">"Не возможно получить IP адрес. Если вы столкнетесь с этой проблемой снова, попробуйте использовать статический IP-адрес."</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Пусто</string>
   <string name="load_fail">"Невозможно загрузить"</string>
+  <string name="local_ip_exception_summary">"Невозможно получить локальный IP-адрес. Для отпрвки отчета MIUI, зайдите в приложение Отчет и отправте лог с устройства."</string>
   <string name="lock_screen_setting_summary">Отображать уведомление после использования 100KB</string>
   <string name="lock_screen_traffic_guide_notification_summary">Мобильные данные, используемые во время блокировки экрана.</string>
   <string name="lock_screen_traffic_guide_notification_title">Использовано %s мобильных данных</string>
@@ -178,10 +187,20 @@
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Информация о Framework</string>
+  <string name="mian_page_primary_txt">Международный роуминг</string>
   <string name="network_assistant_upgraded_body">Нажмите для настройки</string>
   <string name="network_assistant_upgraded_title">Предел трафика не установлен</string>
+  <string name="network_blocked_connected_open_wifi">Подключено к публичной сети</string>
+  <string name="network_blocked_notification_summary">Просмотр</string>
+  <string name="network_blocked_switch_wifi">Переключить сеть</string>
   <string name="network_control">Настройки трафика</string>
   <string name="network_diagnostics">Тест сети</string>
+  <string name="network_mobile_exception_detail">"Ваше устройство не может подключиться к интернету:\n\n1. Убедитесь, что Вы не превысили установленный оператором плана ограничение для мобильных данных.\n\n2. Если вы только что пополнили счет, перезагрузите устройство и попробуйте снова.\n\n3. У вас может быть слабый сигнал сети"</string>
+  <string name="network_operator_exception_summary">"Невозможно активировать SIM-карту. Убедитесь, что ваша карта установлена правильно и мобильный план активирован для вашего оператора"</string>
+  <string name="network_permission_exception_tips">"Невозможно использовать мобильную передачу данных, для подключения к сети."</string>
+  <string name="network_roaming_exception_tips">"Невозможно использовать мобильную передачу данных в роуминге, для подключения к сети."</string>
+  <string name="network_route_exception_detail">"Может быть проблема с роутером, к которому вы подключены:\n\n"<b>"1. Проблемы публичной Wi-Fi сети\n"</b>"Если вы подключены к общедоступной беспроводной локальной сети, количество пользователей, подключенных к этой сети может замедлять соединение или создавая проблемы с подключением. Переключиться на другую сеть и повторите попытку.\n 2."<b>" Проблемы сети интерне-провайдера\n"</b>"Убедитесь, что у вас положительный баланс на счету Интернет-провайдера.\n3."<b>" Проблемы маршрутизатора\n"</b>"Попробуйте перезагрузить ваш роутер.\n4."<b>" Другие проблемы\n"</b>"Прочтите инструкция и попробуйте сбросить настройки роутера к заводским установкам.\n5."<b>" Убедитесь, что ваш роутер подключен корректно\n"</b>"Попробуйте использовать другой сетевой кабель. Если проблема осталась, обратитесь к своему провайдеру"</string>
+  <string name="network_sim_exception_detail">"Это может быть проблема с вашей SIM картой:\n\n1. Убедитесь, что положительный баланс на счету. Попробуйте использовать SIM-карту друга и посмотреть, сможете ли вы подключиться нормально.\n\n2. Если вы используете две SIM карты, попробуйте переключиться на другу и проврьте интернет.\n\n3. Убедитесь, что SIM катра и её слот не повреждены. Проверьте, что вы правильно вставили SIM карту в ваше устройство"</string>
   <string name="none_mi_service_app_detail">Пусто</string>
   <string name="notification_content_title">Использовано трафика в режиме сна: %1$s</string>
   <string name="notification_title">%1$s-%2$s: %3$s использовано</string>
@@ -197,6 +216,9 @@
   <string name="online_chat">Общение</string>
   <string name="online_read">Чтение</string>
   <string name="online_songs">Прослушивание</string>
+  <string name="open_now">Разрешить приложению мобильную передачу данных</string>
+  <string name="other_exception_summary">"У вас нет интернет соединения"</string>
+  <string name="other_exception_title">Проверка других проблем</string>
   <string name="pay_charge">Приобретение дополнительных данных</string>
   <string name="per_month_pkg_traffic_settings">Тарифный план</string>
   <string name="permit_running_network">Фоновые соединения</string>
@@ -247,6 +269,7 @@
   <string name="pref_package_traffic_overlay">%1$s | Дополнительный пакет: %2$s</string>
   <string name="pref_package_traffic_settings">Тарифный план</string>
   <string name="pref_pkg_begin_date">Настройки даты</string>
+  <string name="pref_roaming_daily_limit_setting">Дневной лимит для роуминга данных</string>
   <string name="pref_setting_operators_message">Шаблон сообщения, который будет отправлен оператору для синхронизации статистики трафика.</string>
   <string name="pref_show_mobile_traffic">Отображать использонный трафик в спящем режиме после разблокировки экрана. Телефон должен находиться в режиме сна не менее 3 минут.</string>
   <string name="pref_special_traffic_exceed_limit">Уведомлять, когда трафик достигает предела.</string>
@@ -278,14 +301,21 @@
   <string name="privacy_prompt_traffic_adjust_message">"Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы обновить шаблон запроса SMS и проверить доступность этой возможности в вашем регионе."</string>
   <string name="privacy_prompt_traffic_purchase_message">"Ваш номер телефона и информация об операторе будут загружены на сервер Xiaomi, чтобы получить информацию о способах оплаты."</string>
   <string name="privacy_prompt_upload">Уведомление о конфиденциальности</string>
+  <string name="protocol_exception_title">Диагностика сетевого протокола</string>
+  <string name="protocol_loop_back_exception_summary">Тест не пройден. Отправьте отчет MIUI</string>
   <string name="reach_daily_limit_value_body">Ограничьте использование мобильного интернета</string>
   <string name="reach_daily_limit_value_title">Предел трафика превышен</string>
   <string name="read_number">86 статей</string>
   <string name="read_unit">" статей"</string>
+  <string name="renew_ip">Повторить</string>
   <string name="repair">Восстановить</string>
   <string name="repair_loading_text">Загрузка…</string>
   <string name="replace_dns">Автоматическая замена DNS</string>
   <string name="right_precent">100%</string>
+  <string name="roaming_limit_dialog_message">Достигнут дневной лимит передачи данных в роуминге.</string>
+  <string name="roaming_limit_network_notification_body">Просмотр доступных сетей</string>
+  <string name="roaming_limit_notification_title">Достигнут дневной лимит передачи данных в роуминге</string>
+  <string name="roaming_limit_warning_notification_body">Просмотр использования данных.</string>
   <string name="roaming_not_start_body">Приложения из списка исключений будут иметь возможность подключаться к интернету в международном роуминге</string>
   <string name="roaming_not_start_title">Международный роуминг</string>
   <string name="roaming_start_body">Разрешить приложениям из списка исключений подключаться к интернету в международном роуминге</string>
@@ -293,6 +323,7 @@
   <string name="root">Рут доступ</string>
   <string name="sc_allow_network_dialog_message">Для полноценной работы функции сжатия трафика необходимо разрешить приложению доступ в интернет</string>
   <string name="sc_allow_network_dialog_tiltle">"Не могу использовать экономию трафика"</string>
+  <string name="search_input_txt">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
   <string name="see_detail">Подробнее</string>
   <string name="setting_traffic_pkg">Ввести трафик</string>
   <string name="settings">Настройки трафика</string>
@@ -300,6 +331,7 @@
   <string name="show_traffic_dialog_title">Отображать использование в панели уведомления</string>
   <string name="signal_exception_summary">"Не могу подключиться к сети в этом месте."</string>
   <string name="signal_exception_title">Слабый сигнал сети</string>
+  <string name="sim_state_exception_summary">Статус SIM указывает на то, что что-то не так с вашей SIM-карты.</string>
   <string name="songs_number">18 треков</string>
   <string name="songs_unit">" треков"</string>
   <string name="sorted_button">Сортировка</string>
@@ -339,7 +371,10 @@
   <string name="tc_sms_report_upload_when_net">Отчет будет отправлен при подключении к интернету</string>
   <string name="ten_percent_total_pkg">%s (10%% от ежемесячного трафика)</string>
   <string name="three_percent_total_pkg">%s (3%% от ежемесячного трафика)</string>
+  <string name="timeshow_h">%.1fч</string>
+  <string name="timeshow_h_int">%dч</string>
   <string name="timeshow_h_m">%1$dч %2$dм</string>
+  <string name="timeshow_m">%dм</string>
   <string name="timeshow_m_s">%1$dм %2$dс</string>
   <string name="timeshow_s">%dс</string>
   <string name="tips_dialog_title">Информация</string>
@@ -442,6 +477,8 @@
   <string name="usage_sorted_loading_text">Загрузка…</string>
   <string name="usbsharenet_exception_summary">"Невозможно тестировать сеть при использовании Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Тест USB сети</string>
+  <string name="usbsharenet_pc_exception_summary">"Не могу подключиться к интернету через общее USB-соединение. Проверьте подключение к интернету вашего компьютера."</string>
   <string name="wifi_exception_summary">Тест доступной Wi-Fi сети</string>
   <string name="wifi_exception_title">Тест Wi-Fi сети</string>
+  <string name="wifi_network_blocked_notification_title">Нет соединения</string>
 </resources>

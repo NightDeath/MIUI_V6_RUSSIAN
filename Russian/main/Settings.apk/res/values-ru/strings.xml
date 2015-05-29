@@ -528,6 +528,7 @@
     <string name="carrier_enabled_summaryOn">APN включен</string>
     <string name="cdma_security_settings_summary">Настройка функции \"Местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
     <string name="cell_broadcast_settings">Широковещательные сообщения</string>
+    <string name="cell_broadcast_settings_summary">Выберите типы аварийного оповещения для отображения</string>
     <string name="change_password">Сменить пароль</string>
     <string name="change_security_lock">Другие способы разблокировки</string>
     <string name="check_update">Проверить обновление</string>
@@ -925,6 +926,7 @@
     <string name="floating_window_switch_label">Всплывающие окна</string>
     <string name="floating_window_switch_label_disable">Скрыть всплывающие окна</string>
     <string name="fluency_mode">Оптимизация производительности</string>
+    <string name="fluency_mode_confirm_and_reboot">Перезагрузить сейчас</string>
     <string name="fluency_mode_confirm_title">Перезагрузить сйчас?</string>
     <string name="fluency_mode_confirm_will_fluency_mode_text">Ваше устройство должно перезагрузиться, чтобы применить эти настройки.</string>
     <string name="fluency_mode_confirm_will_normal_mode_text">Включение анимации и использования дополнительной памяти может привести к снижению производительности на некоторых устройствах.</string>
@@ -1192,6 +1194,9 @@
     <string name="lock_after_timeout">Автоблокировка</string>
     <string name="lock_after_timeout_summary">После %1$s спящего режима</string>
     <string name="lock_intro_message">Чтобы никто, кроме вас, не мог воспользоваться вашим телефоном, создайте графический ключ разблокировки экрана. Для этого соедините в произвольном порядке не менее четырех точек на следующем экране. Чтобы начать, нажмите \"Далее\"</string>
+    <string name="lock_screen_secure_after_timeout_immediately_summary">Запросить пароль сразу</string>
+    <string name="lock_screen_secure_after_timeout_summary">Запрос пароля через %1$s</string>
+    <string name="lock_screen_secure_after_timeout_title">Запрос пароля</string>
     <string name="lock_screen_unlock_show">Показывать окно ввода пароля</string>
     <string name="lock_screen_unlock_show_summary">При включении экрана сразу будет отображаться окно ввода пароля</string>
     <string name="lock_settings">Экран блокировки</string>
@@ -1440,6 +1445,7 @@
     <string name="music_dirac_mode_piston_100">Mi пистоны</string>
     <string name="music_dirac_mode_piston_2">Mi пистоны-2</string>
     <string name="music_dirac_mode_piston_basic">Обычные пистоны</string>
+    <string name="music_dirac_mode_piston_standard">Стандартный выпуск</string>
     <string name="music_dirac_mode_piston_youth">Mi пистоны-youth</string>
     <string name="music_dolby_mode_movie">Видео</string>
     <string name="music_dolby_mode_music">Музыка</string>
@@ -1575,6 +1581,7 @@
     <string name="passwordIncorrect">Неверный пароль</string>
     <string name="password_guard">Защита</string>
     <string name="percentage">%d%%</string>
+    <string name="performance_category">Производительность</string>
     <string name="permission_detail_info">Разрешения</string>
     <string name="permission_detail_info_summary">Безопасные: %1$d | Приватные: %2$d | Другие: %3$d</string>
     <string name="permission_manage">Управление разрешениями</string>
@@ -1923,6 +1930,9 @@
     <string name="sdcard_unmount">Извлечь карту памяти</string>
     <string name="se_route_ese">Встроенный безопасный элемент</string>
     <string name="se_route_uicc">Безопасный элемент на SIM-карте</string>
+    <string name="search_description">Настройки поиска</string>
+    <string name="search_hint">Настройки поиска</string>
+    <string name="search_label">Настройки</string>
     <string name="search_launcher">Рабочий стол</string>
     <string name="search_settings_summary">Управление параметрами поиска и истории</string>
     <string name="security_enable_widgets_disabled_summary">Отключено администратором</string>
@@ -2084,6 +2094,7 @@
     <string name="status_bar_settings_enable_notification">Разрешить уведомления</string>
     <string name="status_bar_settings_expandable_under_keyguard">Доступ на экране блокировки</string>
     <string name="status_bar_settings_long_click_sort">Удерживайте для сортировки</string>
+    <string name="status_bar_settings_manage_notification">Настройка уведомлений</string>
     <string name="status_bar_settings_no_carrier">Не установлено</string>
     <string name="status_bar_settings_notification_bar">Панель уведомлений</string>
     <string name="status_bar_settings_notification_led">Световой индикатор</string>
@@ -2445,6 +2456,9 @@
     <string name="view_install_log">Показать журнал</string>
     <string name="vipercn_summary">Эквалайзер</string>
     <string name="vipercn_title">Viper</string>
+    <string name="virtual_sim_category_title">Виртуальные Sim</string>
+    <string name="virtual_sim_description">Надежные услуги \"международный роуминг\"</string>
+    <string name="virtual_sim_title">Роуминг данных в сети</string>
     <string name="virus_scan">Антивирус</string>
     <string name="virus_scan_app_continue">Продолжить</string>
     <string name="virus_scan_app_find_risk">Найдено угроз: %d</string>

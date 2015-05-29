@@ -50,4 +50,21 @@
         <item>10 секунд</item>
         <item>Другое</item>
      </string-array>
+     <string-array name="entries_mms_validity_period">
+        <item>Миксимум</item>
+        <item>2 дня</item>
+     </string-array>
+     <string-array name="entries_sms_validity_period">
+        <item>Не установлено</item>
+        <item>1 час</item>
+        <item>6 часов</item>
+        <item>12 часов</item>
+        <item>1 день</item>
+        <item>Максимум</item>
+     </string-array>
+     <string-array name="prefValues_vibrateWhen">
+        <item>всегда</item>
+        <item>без звука</item>
+        <item>никогда</item>
+     </string-array>
 </resources>

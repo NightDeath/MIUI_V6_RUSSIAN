@@ -147,6 +147,7 @@
      <string name="higher_quality_music">Сервис музыки Baidu</string>
      <string name="higher_quality_music_summary">Загрузка музыки высокого качества</string>
      <string name="i_know">ОК</string>
+     <string name="i_know_it">OK</string>
      <string name="impunity_declaration">Онлайн музыка предоставляется сервисом Baidu. Принять <a href="http://music.baidu.com/doc/agreement">пользовательское соглашение</a> и разрешить доступ к сети?</string>
      <string name="impunity_declaration_ignore">Запомнить</string>
      <string name="impunity_declaration_negative_text">Выход</string>
@@ -227,6 +228,7 @@
      <string name="playlist_renamed_message">Плейлист переименован</string>
      <string name="please_download_first">Перед установкой на звонок трек необходимо загрузить</string>
      <string name="please_search_or_select">Выберите</string>
+     <string name="preset_music_playlist">Mi Music плейлист</string>
      <string name="presonal_center">Настройки</string>
      <string name="priority_storage">Загрузка во внешний накопитель</string>
      <string name="priority_storage_summary">Загружать музыку во внешний накопитель, когда он подключен.</string>
@@ -259,6 +261,8 @@
      <string name="set_album_successful">Обложка альбома установлена</string>
      <string name="set_as_ring">Установить на звонок</string>
      <string name="set_id3_failed">Не удалось изменить информацию о треке</string>
+     <string name="set_id3_not_have_read_or_write_permission">"У вас нет разрешения на изменение этого файла"</string>
+     <string name="set_id3_not_support_format">"Не могу редактировать этот формат файла"</string>
      <string name="set_id3_successful">Информация о треке изменена</string>
      <string name="set_lyric_successful">Текст песни установлен</string>
      <string name="set_ringtones_failed">Не удается установить на звонок</string>

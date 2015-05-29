@@ -439,6 +439,9 @@
   <string name="search_setting_description">Текст в сообщениях</string>
   <string name="search_show_more_results">Больше</string>
   <string name="secs">сек.</string>
+  <string name="security_alert_desc">"Отправитель не в списке контактов. "<u><font color="red">Отправить этот номер</font></u></string>
+  <string name="security_alert_dialog_desc">Отправить номер (%s) и сообщение Xiaomi для проверки.</string>
+  <string name="security_alert_dialog_title">Отправить</string>
   <string name="select_audio">Выбор аудио</string>
   <string name="select_bottom_text">Текст внизу</string>
   <string name="select_copy_text">выделить и скопировать текст сообщения</string>
@@ -488,6 +491,8 @@
   <string name="sms_full_title">Память для текстовых сообщений переполнена</string>
   <string name="sms_rejected_body">Входящее сообщение отклонено по неизвестной причине</string>
   <string name="sms_rejected_title">Сообщение отклонено</string>
+  <string name="sms_report_failed">"Не отправлено"</string>
+  <string name="sms_report_success">Отправлено</string>
   <string name="snippet_audio">[аудио]</string>
   <string name="snippet_picture">[изображения]</string>
   <string name="sp_category_all">Все служебные сообщения</string>
@@ -510,7 +515,9 @@
   <string name="storage_dialog_attachments">Mms вложений:</string>
   <string name="storage_dialog_available_space">Доступно места:</string>
   <string name="storage_dialog_database">База данных:</string>
+  <string name="storage_dialog_mms">MMS: %d</string>
   <string name="storage_dialog_mms_size">Размер Mms:</string>
+  <string name="storage_dialog_sms">SMS: %d</string>
   <string name="storage_limits_activity">Пределы хранилища</string>
   <string name="storage_limits_message">Ограничить количество сообщений в диалоге?</string>
   <string name="storage_limits_setting">Установить ограничения</string>

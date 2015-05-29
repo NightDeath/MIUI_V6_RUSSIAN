@@ -16,6 +16,9 @@
     <string name="bugreport_dump_complete_notification_title">Создать отчет</string>
     <string name="bugreport_dump_start_notification_summary">Займет около минуты.</string>
     <string name="bugreport_dump_start_notification_title">Создание отчета</string>
+    <string name="bugreport_tool_log">Создать отчет об ошибке</string>
+    <string name="bugreport_tool_log_toast">Лог сохранен в %s</string>
+    <string name="bugreport_tool_log_toast_generate_bugreport">Создание отчета об ошибке (подождите немного)</string>
     <string name="button_feedback">Другое</string>
     <string name="button_plus">+1</string>
     <string name="camera_problem1">Плохое качество фото</string>
@@ -60,6 +63,11 @@
     <string name="menu_attach_screenshot">Присоединить скриншот</string>
     <string name="menu_copy">Копировать</string>
     <string name="menu_discard">Отменить</string>
+    <string name="modem_tool_log">Создать лог модема</string>
+    <string name="modem_tool_log_start">Начать</string>
+    <string name="modem_tool_log_start_toast">"Начать сохранение лога модема в %s"</string>
+    <string name="modem_tool_log_stop">Стоп</string>
+    <string name="modem_tool_log_stop_toast">"Остановить сохранение лога модема в %s"</string>
     <string name="network_disconnected">Нет сети</string>
     <string name="network_err">Не удается подключиться к сети</string>
     <string name="network_unavailable_dialog_button_ok">ОК</string>

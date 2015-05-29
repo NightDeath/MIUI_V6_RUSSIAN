@@ -29,6 +29,7 @@
     <string name="cate_game">Игры</string>
     <string name="category_recommend_tag">Рекомендации</string>
     <string name="category_tag">Категории</string>
+    <string name="choose_using_application">Завершить действие с помощью</string>
     <string name="clear_cache_failed">Ошибка очистки кэша, попробуйте позже.</string>
     <string name="clear_cache_message">Очистить кэш?</string>
     <string name="clear_cache_succeed">Кэш очищен</string>
@@ -99,6 +100,7 @@
     <string name="diagnostics_local_ip">1.Локальный IP адрес</string>
     <string name="diagnostics_test_download">5.Измерение скорости загрузки</string>
     <string name="diagnostics_title">Диагностика сети</string>
+    <string name="dialog_title_install_tip">Подсказка установки</string>
     <string name="download_fail">Ошибка загрузки</string>
     <string name="download_history">История загрузки</string>
     <string name="download_history_login_hint">Войдите в Mi аккаунт для просмотра истории установленных приложений</string>
@@ -235,6 +237,9 @@
     <string name="more_subject">Коллекции</string>
     <string name="my_app">Мои приложения</string>
     <string name="my_favorites">Избранные</string>
+    <string name="need_system_library_1">%1$s установить не удалось, потому что в MIUI отсутствуют какой-то библиотеки (может быть гугл сервис фреймворк), вы можете использовать</string>
+    <string name="need_system_library_2"> Отчет </string>
+    <string name="need_system_library_3">что бы рассказать о проблеме!</string>
     <string name="new_app_tag">Новые</string>
     <string name="no_average_score">Нет средней оценки</string>
     <string name="no_change_log">Список пуст</string>
@@ -247,6 +252,8 @@
     <string name="no_local_apps">Нет установленных приложений</string>
     <string name="no_network">Сеть недоступна</string>
     <string name="no_search">Приложений не найдено</string>
+    <string name="no_search_result_for_third_market">Не найдено приложений в %1$s</string>
+    <string name="no_search_result_tip">Приложения не найдены</string>
     <string name="no_update">Обновлений нет</string>
     <string name="no_update_records">Нет истории обновлений</string>
     <string name="notif_auto_update_failed">Ошибка обновления приложений</string>
@@ -259,12 +266,14 @@
     <string name="notif_install_successful">Установка завершена</string>
     <string name="notif_install_successful_default">%1$s установлено</string>
     <string name="notif_installing">Установка \"%1$s\"…</string>
+    <string name="notif_message_stop_by_space_not_enough">Нет места. Нажмите, что бы переместить</string>
     <string name="notif_summary_auto_update_failed">Нажмите для продолжения</string>
     <string name="notif_summary_auto_update_on">Mi Маркет будет обновлять приложения автоматически</string>
     <string name="notif_summary_auto_update_successful">Обновлено приложение: %1$s</string>
     <string name="notif_title_auto_update_on">Автообновление приложений включено</string>
     <string name="notif_title_first_setup">Найдите множество приложений в App Store</string>
     <string name="notif_title_redownload">Загрузка: %1$s</string>
+    <string name="notif_title_stop_by_space_not_enough">Установка приостановлена</string>
     <string name="notif_title_update">Доступно обновление: %1$s!</string>
     <string name="notif_update_successful">Обновлено</string>
     <string name="notif_update_successful_default">Обновлено</string>

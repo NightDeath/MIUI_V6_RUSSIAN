@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="welcom_message">"Все готово"</string>
-    <string name="welcom_title">Добро пожаловать в MIUI 6</string>
     <string name="about_device">Сведения о системе</string>
     <string name="active_xiaomi_account">Активировать</string>
     <string name="active_xiaomi_account_msg">Пожалуйста, перейдите на форум MIUI для активации аккаунта Xiaomi:\n</string>
@@ -57,6 +55,7 @@
     <string name="download_error">Не удалось загрузить обновление</string>
     <string name="download_failed">Ошибка загрузки</string>
     <string name="download_full">Скачать полную прошивку</string>
+    <string name="download_success_reboot_immediately">Перезагрузить для обновления</string>
     <string name="download_title">Загрузка: %s</string>
     <string name="download_title_first">Получение данных обновления</string>
     <string name="download_title_full_download">Прошивка загружена и готова к установке</string>
@@ -109,6 +108,7 @@
     <string name="no_wifi_msg">Размер прошивки слишком большой, рекомендуется скачать его по сети Wi-Fi. Продолжить загрузку через мобильный интернет?</string>
     <string name="no_wifi_title">Предупреждение</string>
     <string name="not_open">Отмена</string>
+    <string name="notification_auto_reboot_seccess_title">Устройство обновляется автоматически</string>
     <string name="notification_downloading">Загрузка прошивки…</string>
     <string name="notification_load_body_alpha">Получите экспериментальные обновления</string>
     <string name="notification_load_body_dev">Получите еженедельные обновления</string>
@@ -193,10 +193,12 @@
     <string name="update_sad">Плохое</string>
     <string name="update_success">Обновление успешно завершено!</string>
     <string name="update_success_body">%s</string>
+    <string name="update_success_reboot_immediately">Устройство обновлено</string>
     <string name="update_success_title">Обновление</string>
     <string name="updater_nolog">Отчет отсутствует</string>
     <string name="updater_nonetwork">Включите интернет, чтобы получить отчет.</string>
     <string name="updater_nonetwork_clause">"Невозможно подключиться к сети"</string>
+    <string name="updater_wait_for_unzip">Распаковка обновления…</string>
     <string name="upgrade_close">Закрыть</string>
     <string name="upgrade_kernel">Обновления ядра</string>
     <string name="upgrade_kernel_msg">Ваше ядро несовместимо с прошивкой MIUI. Вы должны обновить его вручную. Зайтите на сайт, чтобы узнать как обновить ядро:\n</string>
@@ -220,5 +222,8 @@
     <string name="vote_recommend">Рекомендуем это обновление</string>
     <string name="vote_submit">Отправить</string>
     <string name="weekly_build">еженедельная</string>
+    <string name="welcom_button">OK</string>
+    <string name="welcom_message">"Все готово"</string>
+    <string name="welcom_title">Добро пожаловать в MIUI 6</string>
     <string name="worst_update">3. Худшее изменение</string>
 </resources>

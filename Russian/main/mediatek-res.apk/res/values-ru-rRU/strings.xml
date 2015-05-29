@@ -39,6 +39,7 @@
      <string name="delete">Удалить</string>
      <string name="deleteApp">Удаление приложений</string>
      <string name="deleteMail">Резервное копирование почты и удаление хранилища</string>
+     <string name="deleteMails">Удалить письма</string>
      <string name="description_direction_down">Проведите вниз, чтобы отложить</string>
      <string name="description_direction_left">Проведите влево, чтобы отложить</string>
      <string name="description_direction_right">Проведите вправо для отмены</string>
@@ -92,6 +93,10 @@
      <string name="free_memory_btn">Свободное место</string>
      <string name="free_memory_text">Мало памяти, освободите память.</string>
      <string name="gps_time_sync_fail_str">Сбой при получении времени, предоставленного GPS</string>
+     <string name="hdmi_hdvideo_toast">HDMI не может воспроизводить 4K видео, соединение будет прервано.</string>
+     <string name="hdmi_notification_content">Нажмите для настройки HDMI</string>
+     <string name="hdmi_notification_title">HDMI кабель подключен</string>
+     <string name="headset_pin_recognition">Наушники не совместимы с устройством. Пожалуйста, попробуйте другие.</string>
      <string name="invalidPuk">Введите 8 цифр.</string>
      <string name="invalid_card">Неправильная карта</string>
      <string name="invalid_imei">Неправильный IMEI</string>
@@ -110,6 +115,8 @@
      <string name="lockscreen_sim1_puk_locked_message">SIM1 PUK-заблокирована.</string>
      <string name="lockscreen_sim2_puk_locked_message">SIM2 PUK-заблокирована.</string>
      <string name="lockscreen_sim_puk_locked_message_short">PUK заблокирован</string>
+     <string name="low_internal_storage_view_title">Внутренний накопитель на исходе</string>
+     <string name="low_storage_warning_message">Пожалуйста, освободите место, или некоторые приложения и системные функции могут не работать.</string>
      <string name="media_controller_buffering">Буферизация %d%%...</string>
      <string name="media_controller_connecting">Соединение...</string>
      <string name="media_controller_playing">Воспроизведение</string>
