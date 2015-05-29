@@ -93,7 +93,7 @@
     <string name="find_device_notice_p1">Посетите сайт</string>
     <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"для поиска, блокировки или восстановления вашего устройства.\nЕсли вы сменили SIM карту, необходимо повторно активировать аккаунт по SMS."</string>
-    <string name="find_device_send_sms_alert">Если вы заменили SIM карту, автоматически будет отправлена SMS для повторной активации сервисов.</string>
+    <string name="find_device_send_sms_alert">\nЕсли вы заменили SIM карту, автоматически будет отправлена SMS для повторной активации сервисов.</string>
     <string name="find_device_status_ok">Поиск вашего устройства через сайт i.mi.com</string>
     <string name="find_device_status_ok_international">Найдите ваше устройство в любом месте на www.mi.com/micloud</string>
     <string name="find_device_stop_noise">Выключить</string>
@@ -283,7 +283,7 @@
     <string name="sync_dspt_entrance_provision_2">Подробнее</string>
     <string name="sync_dspt_entrance_provision_confirm_close">"Не использовать"</string>
     <string name="sync_dspt_entrance_provision_confirm_content">"Встроенным приложениям MIUI необходим Mi Cloud для резервного копирования фото, контактов, заметок и другого. Mi Cloud бесплатно и готово для использования из коробки."</string>
-    <string name="sync_dspt_entrance_provision_confirm_open">Использовать Mi Cloud</string>
+    <string name="sync_dspt_entrance_provision_confirm_open">Использовать</string>
     <string name="sync_dspt_entrance_provision_confirm_title">"Не использовать Mi Cloud?"</string>
     <string name="sync_dspt_entrance_provision_skip"><u>Пропустить этот шаг</u></string>
     <string name="sync_dspt_provision">"Mi Облако позволяет синхронизировать фото, контакты, сообщения и другие данные между устройствами. Также вы можете просматривать данные с компьютера через сайт "</string>
