@@ -437,7 +437,7 @@
     <string name="version_select_summary">Выберите, какую версию использовать</string>
     <string name="video">Видео</string>
     <string name="video_app_update">Обновить</string>
-    <string name="video_bbs">Исплользовать</string>
+    <string name="video_bbs">Присоединиться</string>
     <string name="video_bbs_url">Присоединиться и помочь улучшить это приложение</string>
     <string name="video_count">Видео: %d</string>
     <string name="video_declare">Авториские права | Отказ от ответственности</string>
