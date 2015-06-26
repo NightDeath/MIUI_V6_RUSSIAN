@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="dlg_info_creating_message">Создание сообщения…</string>
+    <string name="sync_tips">Нажмите для синхронизации с Mi Cloud.</string>
     <string name="add_account_desc">Заметки можно синхронизировать с вашим аккаунтом Xiaomi. \n\nВойти в аккаунт и начать синхронизацию?</string>
     <string name="alarm_bar_title">Напоминание</string>
     <string name="alert_action_edit_anyway">Продолжить</string>

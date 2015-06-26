@@ -541,4 +541,9 @@
     <string name="xiaomi_account_type_unsupported">Ваша система не поддерживает Mi аккаунт</string>
     <string name="xiaomi_user">Пользователь</string>
     <string name="yesterday">Вчера</string>
+    <string name="bmp_quality_mode">Кажество изображения</string>
+    <string name="bmp_quality_mode_desc">Выбран режим высокого качества.</string>
+    <string name="miwifi_app_update_button">Обновить</string>
+    <string name="miwifi_app_update_content">Примечание:эта функция требует маршрутизатора с версии 2.0 или выше</string>
+    <string name="miwifi_app_update_title">Вам необходимо обновить маршрутизатор приложение, чтобы использовать эту функцию. Обновить сейчас?</string>
 </resources>

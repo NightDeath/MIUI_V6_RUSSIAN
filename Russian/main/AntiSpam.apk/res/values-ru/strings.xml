@@ -36,6 +36,7 @@
   <string name="SMS_SERVICE">Служба черного списка</string>
   <string name="SMSpass">Разрешить сообщения</string>
   <string name="STRANGER_BLOCK">Блокировка незнакомых</string>
+  <string name="action_source_sms_title">Заблокированные SMS</string>
   <string name="ad_block_hint">Заблокировано: %d</string>
   <string name="ad_install_monitor">Монитор установки</string>
   <string name="ad_install_monitor_hint">Проверять наличие рекламы при установке приложения</string>
@@ -141,11 +142,14 @@
   <string name="mark_express_block">Отмечено как курьер</string>
   <string name="mark_fraud">Мошенник</string>
   <string name="mark_fraud_block">Отмечено как мошенник</string>
+  <string name="mark_harass">Домогательство</string>
+  <string name="mark_harass_block">Сообщить о домогательстве</string>
   <string name="mark_meal">Доставка еды</string>
   <string name="mark_meal_block">Отмечено как доставка еды</string>
   <string name="mark_number_agent">Агент</string>
   <string name="mark_number_banking">Страховая</string>
   <string name="mark_number_fraud">Мошенничество</string>
+  <string name="mark_number_harass">Домагательство</string>
   <string name="mark_number_info">"Вызовы будут блокироваться только от номеров из выбранных категорий"</string>
   <string name="mark_number_sell">Соцопрос</string>
   <string name="mark_number_setting_guide_content1">Блокировать звонки от отправленных номеров?</string>

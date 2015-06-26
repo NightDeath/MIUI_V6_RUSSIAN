@@ -89,4 +89,13 @@
     <string name="virus_scan_install">" "<u>Установить</u>" "</string>
     <string name="virus_scan_is_risk">Приложение содержит угрозу, продолжить установку?</string>
     <string name="virus_scan_is_virus">Приложение содержит вирус, рекомендуется удалить!</string>
+    <string name="activity_package_delete_confirm_title">Предупреждение</string>
+    <string name="button_text_cancel">Отмена</string>
+    <string name="button_text_delete">Удалить</string>
+    <string name="button_text_delete_timer">Удалить (%d)</string>
+    <string name="button_text_next_step">Далее</string>
+    <string name="button_text_next_step_timer">Далее (%d)</string>
+    <string name="package_delete_confirm_step_1">Удалить %s?</string>
+    <string name="package_delete_confirm_step_2">Удаление этого приложения может привести к нестабильности системы.</string>
+    <string name="package_delete_confirm_step_3">"Вы не можете открыть приложение после его удаления."</string>
 </resources>

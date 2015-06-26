@@ -268,4 +268,5 @@
     <string name="widget_favorite_contacts_style">Размер</string>
     <string name="widget_gadget_player">Музыка</string>
     <string name="widget_global_search">Поиск</string>
+    <string name="is_setting_wallpaper_message">Настройка обоев…</string>
 </resources>
