@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="web_sso_login_fail">Вам необходимо войти снова</string>
+    <string name="web_sso_login_message">Вход…</string>
     <string name="abc_action_bar_home_description">Домой</string>
     <string name="abc_action_bar_up_description">Назад</string>
     <string name="action_mode_deselect_all">Снять выбор</string>

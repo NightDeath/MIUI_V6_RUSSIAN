@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources>     
+  <string name="pref_title_diagnostics_dont_show_float_notification">Показывать предупреждения в уведомлениях</string>
+  <string name="permission_exception_summary">"Некоторые приложения не имеют разрешения на подключение к интернету"</string>
+  <string name="permission_exception_title">Посмотреть разрешения сети</string>
+  <string name="gateway_exception_summary2">"Нет подключения к сети"</string>
+  <string name="miuishare_title_more">Больше</string>
+  <string name="miuishare_title_share">Поделиться</string>
+  <string name="network_connected_exception_title">Тест сети</string>
+  <string name="network_not_available">"Нет подключения к сети"</string>
+  <string name="networkchanged_exception_summary">Соединение изменено. Попробуйте снова.</string>
+  <string name="networkchanged_exception_title">Соединение изменено</string>
+  <string name="no_network_btn">Повторить</string>
   <string name="add_miservice_dialog_content">"%s требует от вас добавить MIUI service framework в список исключений. Вы можете получать уведомления из встроенных приложений MIUI и других приложений сторонних разработчиков."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="add_to_whitelist_button">Белый список</string>

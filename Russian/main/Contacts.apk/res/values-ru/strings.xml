@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="cloud_recommend_msg">Нажмите для синхронизации с Mi Cloud.</string>
     <string name="add_blacklist_dialog_title">В черный список</string>
     <string name="blacklist">Черный список</string>
     <string name="followed_yellowpage">Подтверженные аккаунты</string>

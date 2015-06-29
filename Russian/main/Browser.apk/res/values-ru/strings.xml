@@ -363,6 +363,17 @@
      <string name="miuichromium_error_page_title">Не удается найти страницу</string>
      <string name="miuichromium_error_page_url">Показать URL страницы</string>
      <string name="miuichromium_error_page_wlan">Сеть Wi-Fi</string>
+     <string name="miuishare_account_activate_confirmation">Требуется активация</string>
+     <string name="miuishare_account_activate_ok">Активировать</string>
+     <string name="miuishare_account_login_cancel">Отмена</string>
+     <string name="miuishare_account_login_confirmation">Необходим вход</string>
+     <string name="miuishare_account_login_ok">Фойти</string>
+     <string name="miuishare_no_network">Нет сети для раздачи</string>
+     <string name="miuishare_publish">Отправить</string>
+     <string name="miuishare_share_done">Общий контент отправляется.</string>
+     <string name="miuishare_share_editor_title">Поделиться</string>
+     <string name="miuishare_title_more">Больше</string>
+     <string name="miuishare_title_share">Поделиться</string>
      <string name="modify_download_path_no_sdcard_dlg_msg">SD-карта отключена</string>
      <string name="month_picker_dialog_title">Выбрать месяц</string>
      <string name="move_to_up_folder">Вернуться</string>

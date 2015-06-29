@@ -419,4 +419,11 @@
     <string name="verifying">Проверка…</string>
     <string name="version_label">"Версия: "</string>
     <string name="version_name">Версия: %1$s</string>
+    <string name="bad_comments_with_count">Негативные (%1$s)</string>
+    <string name="developer_apps_title">Другие приложения разработчика</string>
+    <string name="diagnostics_btn_feedback_next">Диагностика завершена, далее</string>
+    <string name="diagnostics_btn_feedback_skip">Пропуск диагностики и обратной связи</string>
+    <string name="good_comments_with_count">Положительные (%1$s)</string>
+    <string name="pref_list_use_preview_server">Использовать предыдущий сервер</string>
+    <string name="text_show_all">Просмотреть все</string>
 </resources>

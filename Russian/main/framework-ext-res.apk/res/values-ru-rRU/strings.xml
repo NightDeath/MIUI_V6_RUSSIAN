@@ -78,4 +78,6 @@
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Wi-Fi точка</string>
     <string name="unknown_caller">Неизвестный номер</string>
+         <string name="perm_send_push_dspt">Разрешить Mi push-сообщения</string>
+     <string name="perm_send_push_lab">Отправить push-сообщение</string>
 </resources>

@@ -577,4 +577,9 @@
   <string name="warning_show">Отоправить %ds</string>
   <string name="xiaomi_service_number">Сервисный номер</string>
   <string name="yes">ОК</string>
+  <string name="found_wild_messages_guide_cloud_desc">Для синхронизации сообщений с Mi Cloud, войдите в ваш Mi Аккаунт и включите синхронизацию SMS.</string>
+  <string name="found_wild_messages_guide_settings_desc">синхронизация SMS из Mi Cloud в настройках сообщений.</string>
+  <string name="pref_show_blocked_messages_summary">Заблокированные SMS в списке бесед</string>
+  <string name="reply_button_msg">Ответить</string>
+  <string name="title_show_blocked_messages">Блокированные SMS</string>
 </resources>
