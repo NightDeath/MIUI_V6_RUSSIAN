@@ -6,6 +6,5 @@
     <string name="svi_enable_title">Включить дисплей SVI</string>
     <string name="svi_info_default">Неизвестно</string>
     <string name="svi_settings_title">Настройки SVI экрана</string>
-    <string name="svi_settings_title">Настройки дисплея SVI</string>
     <string name="svi_version_title">Версия SVI</string>
 </resources>
